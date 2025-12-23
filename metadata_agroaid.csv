@@ -1,0 +1,10 @@
+crop,disease,count,path
+potato,early blight,1001,/Users/pragadeeswarrs/Desktop/AgroAid/potato/Potato___Early_blight
+potato,late blight,1001,/Users/pragadeeswarrs/Desktop/AgroAid/potato/Potato___Late_blight
+potato,healthy,153,/Users/pragadeeswarrs/Desktop/AgroAid/potato/Potato___healthy
+corn,common rust,1307,/Users/pragadeeswarrs/Desktop/AgroAid/Corn/Common_Rust
+corn,gray leaf,575,/Users/pragadeeswarrs/Desktop/AgroAid/Corn/Gray_Leaf_Spot
+corn,healthy,1163,/Users/pragadeeswarrs/Desktop/AgroAid/Corn/Healthy
+tomato,early blight,2405,/Users/pragadeeswarrs/Desktop/AgroAid/tomato/Tomato_Early_blight
+tomato,mosaic virus,374,/Users/pragadeeswarrs/Desktop/AgroAid/tomato/Tomato__Tomato_mosaic_virus
+tomato,healthy,1592,/Users/pragadeeswarrs/Desktop/AgroAid/data/tomato/Tomato_healthy
